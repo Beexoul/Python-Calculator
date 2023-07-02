@@ -42,9 +42,9 @@ Push to the branch (git push origin feature/your-feature)
 Open a pull request
 
 ## Author
-Your Name
+# Beexoul
 
-Contact
+## Contact
 For any inquiries or questions, you can reach me at student.shivarajpaudel@gmail.com.
 
 ```shell
