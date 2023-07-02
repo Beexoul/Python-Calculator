@@ -2,7 +2,7 @@
 
 A simple calculator application built using Python and Tkinter.
 
-![Calculator App Screenshot](Annotation 2023-07-02 203926.png)
+![Calculator App Screenshot](ScreenShot.png)
 ## Features
 
 - Basic arithmetic operations: addition, subtraction, multiplication, and division
