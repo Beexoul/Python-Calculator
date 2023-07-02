@@ -42,7 +42,8 @@ Push to the branch (git push origin feature/your-feature)
 Open a pull request
 
 ## Author
-# Beexoul
+
+###Beexoul
 
 ## Contact
 For any inquiries or questions, you can reach me at student.shivarajpaudel@gmail.com.
