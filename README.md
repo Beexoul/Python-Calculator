@@ -3,7 +3,7 @@
 A simple calculator application built using Python and Tkinter.
 
 ![Calculator App Screenshot](ScreenShot.png)
-![Snap Shot of code](snapshot.png)
+
 ## Features
 
 - Basic arithmetic operations: addition, subtraction, multiplication, and division
@@ -45,7 +45,7 @@ Open a pull request
 
 ## Author
 
-###Beexoul
+<h5>Beexoul </h5>
 
 ## Contact
 For any inquiries or questions, you can reach me at student.shivarajpaudel@gmail.com.
